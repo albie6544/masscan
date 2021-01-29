@@ -1,0 +1,232 @@
+=ARIN=====================
+United States of America
+Canada
+==========================
+
+=RIPE NCC=================
+Bahrain
+Iran
+Iraq
+Israel
+Jordan
+Lebanon
+Oman
+Palestine
+Qatar
+Saudi Arabia
+Syria
+United Arab Emirates
+Yemen
+Kazakhstan
+Kyrgyzstan
+Tajikistan
+Turkmenistan
+Uzbekistan
+Albania
+Åland Islands
+Andorra
+Armenia
+Austria
+Azerbaijan
+Belarus
+Belgium
+Bosnia-Herzegovina
+Bulgaria
+Croatia
+Cyprus
+Czech Republic
+Denmark
+Estonia
+Faroe Islands
+Finland
+France
+Georgia
+Germany
+Gibraltar (United Kingdom)
+Greece
+Hungary
+Iceland
+Ireland
+Isle of Man
+Italy
+Latvia
+Liechtenstein
+Lithuania
+Luxembourg
+Macedonia
+Malta
+Moldova
+Monaco
+Montenegro
+Netherlands
+Norway
+Poland
+Portugal
+Romania
+Russia
+San Marino
+Serbia
+Slovakia
+Slovenia
+Spain
+Svalbard and Jan Mayen Islands
+Sweden
+Switzerland
+Turkey
+Ukraine
+United Kingdom
+Vatican City
+Greenland (Denmark)
+==========================
+
+=APNIC====================
+China
+Democratic People's Republic of Korea
+Hong Kong Special Administrative Region of China
+Japan
+Macao Special Administrative Region of China
+Mongolia
+Republic of Korea
+Taiwan
+French Southern Territories
+Australia
+New Zealand
+Norfolk Island
+Fiji
+New Caledonia
+Papua New Guinea
+Solomon Islands
+Vanuatu
+Federated States of Micronesia
+Guam
+Kiribati
+Marshall Islands
+Nauru
+Northern Mariana Islands
+Palau
+American Samoa
+Cook Islands
+French Polynesia
+Niue
+Pitcairn
+Samoa
+Tokelau
+Tonga
+Tuvalu
+Wallis and Futuna Islands
+Afghanistan
+Bangladesh
+Bhutan
+British Indian Ocean Territory
+India
+Maldives
+Nepal
+Pakistan
+Sri Lanka
+Brunei Darussalam
+Cambodia
+Christmas Island
+Cocos and Keeling Islands
+Indonesia
+Lao People's Democratic Republic
+Malaysia
+Myanmar
+Philippines
+Singapore
+Thailand
+Timor-Leste
+Viet Nam
+==========================
+
+=LACNIC===================
+Argentina
+Aruba
+Belize
+Bolivia
+Bonaire
+Brazil
+Chile
+Colombia
+Costa Rica
+Cuba
+Curacao
+Ecuador
+The Savior
+Guatemala
+Guyana
+French Guiana
+Haiti
+Honduras
+Islas Malvinas (Falkland Islands)
+Mexico
+Nicaragua
+Panama
+Paraguay
+Peru
+Dominican Republic
+San Martin
+South Georgia and The South Sandwich Islands
+Suriname
+Trinidad and Tobago
+Uruguay
+Venezuela
+==========================
+
+=AFRINIC==================
+Burundi
+Benin
+Cameroon
+Algeria
+Angola
+Mauritius
+Djibouti
+Burkina Faso
+Central African Republic
+Egypt
+Botswana
+Réunion
+Eritrea
+Cape Verde
+Democratic Republic of the Congo
+Libya
+Lesotho
+Comoros
+Ethiopia
+Cote d'Ivoire
+Equatorial Guinea
+Morocco
+Namibia
+Mayotte
+Kenya
+Gambia
+Gabon
+Sudan
+South Africa
+Madagascar
+Tanzania
+Ghana
+Republic of the Congo
+South Sudan
+Swaziland
+Seychelles
+Rwanda
+Guinea
+São Tomé and Príncipe
+Tunisia
+Mozambique
+Somalia
+Liberia
+Chad
+Mauritania
+ Malawi
+Uganda
+Mali
+Western Sahara
+Zambia
+Niger
+Zimbabwe
+Nigeria
+Senegal
+Sierra Leone
+Togo
+==========================
